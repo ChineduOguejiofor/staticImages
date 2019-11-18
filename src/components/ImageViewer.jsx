@@ -1,6 +1,6 @@
 import React from "react";
 
-export const Image = ({ imageUrl }) => {
+export const ImageViewer = ({ imageUrl }) => {
   console.log(imageUrl);
   return (
     <div>

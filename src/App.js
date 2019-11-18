@@ -1,11 +1,11 @@
 import React from "react";
-import { Image } from "./components/Image";
+import { ImageViewer } from "./components/ImageViewer";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <Image imageUrl="./img/EMY-C24/01.JPG" />
+      <ImageViewer imageUrl="./img/EMY-C24/01.JPG" />
     </div>
   );
 }
