@@ -5,7 +5,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <Image path="./img/EMY-C24/01.JPG" />
+      <Image imageUrl="./img/EMY-C24/01.JPG" />
     </div>
   );
 }
